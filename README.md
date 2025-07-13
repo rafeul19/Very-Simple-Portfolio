@@ -2,6 +2,8 @@
 
 A clean, responsive, and minimalist personal portfolio website built with HTML, CSS, and JavaScript. This project showcases a modern approach to personal branding with smooth animations and mobile-first design.
 
+## 🌐 Live Demo
+
 ## 🚀 Features
 
 - **Responsive Design**: Fully responsive layout that works on all devices
